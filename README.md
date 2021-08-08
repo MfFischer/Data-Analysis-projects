@@ -17,4 +17,4 @@
 | [online games analysis](https://github.com/MfFischer/Data-Analysis-projects/blob/main/online%20games%20analysis%20new.ipynb) | Utilized data to identify potential big winners in terms of sales of online game platform and to be able to plan better advertising campaigns in the following year. | pandas, matplotlib, seaborn, scipy
 | [Taxi Order analysis](https://github.com/MfFischer/Data-Analysis-projects/blob/main/taxi%20companx%20analysis%20new.ipynb) | Analyzes historical data to understand the passenger preferences and the impact of external factors on rides in Chicago. Tested a hypothesis about the impact of weather on ride frequency. | pandas, scipy, matplotlib
 
-[Data Analysis Certificate of Completion](https://slack-files.com/files-pri-safe/TPV9DP0N4-F023S91QG02/maria_fe_taran.pdf?c=1628069198-475c7c21fdf9bc7b)
+[Data Analysis Certificate of Completion](https://drive.google.com/file/d/17GKjoiTbHhK_JM2M1LCx1HeWJxgZ5VJv/view?usp=sharing)
