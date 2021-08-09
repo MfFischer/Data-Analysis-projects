@@ -1,5 +1,5 @@
 # DATA ANALYSIS PORTFOLIO
-The following are the projects I completed during my Data Analysis professional training program at Practicum by Yandex. All the projects are created in Python using Jupyter Notebooks.
+The following are the projects I completed during my Data Analysis professional training program at Practicum by Yandex. Most the projects are created in Python using Jupyter Notebooks.
 
 | Project Name | Description | Libraries |
 | --- | --- | --- |
